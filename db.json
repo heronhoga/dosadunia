@@ -1,0 +1,29 @@
+{
+  "daftardosa": [
+    {
+      "id": "1",
+      "dosa": "Syirik (Asosiasi dengan Allah)",
+      "penjelasan": "Merupakan dosa terbesar dalam Islam, yaitu mengaitkan atau menyekutukan sesuatu dengan Allah. Islam menekankan keesaan Allah, dan syirik dianggap dosa yang tidak akan diampuni."
+    },
+    {
+      "id": "2",
+      "dosa": "Menghina Allah atau Rasulullah",
+      "penjelasan": "Menghina atau merendahkan Allah, Rasulullah, atau ajaran Islam dianggap sebagai tindakan yang sangat serius."
+    },
+    {
+      "id": "3",
+      "dosa": "Membunuh atau Melakukan Kekerasan yang Tidak Adil",
+      "penjelasan": "Membunuh tanpa alasan yang sah atau melakukan kekerasan yang tidak adil terhadap sesama manusia dianggap sebagai dosa besar."
+    },
+    {
+      "id": "4",
+      "dosa": "Mengonsumsi Ribawi (Keuntungan yang Dilarang oleh Islam)",
+      "penjelasan": "Termasuk di dalamnya adalah riba (bunga atau suku bunga yang diambil dalam transaksi keuangan), judi, dan praktik-praktik keuangan yang diharamkan."
+    },
+    {
+      "id": "5",
+      "dosa": "Mengonsumsi Minuman Keras dan Narkotika",
+      "penjelasan": "Minuman keras dan narkotika diharamkan dalam Islam karena dapat merusak akal dan perilaku seseorang."
+    }
+  ]
+}
